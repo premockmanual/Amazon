@@ -5,3 +5,4 @@ where C stands for CREATE, R stands for Read, U stands for Update and D stands f
 SQL is standard language to communicate with RDBMS. -Priti Jadhav
 we can store data in table with the help of sql-Rutuja
 Structured query language (SQL) is a programming language for storing and processing information in a relational database.
+In SQL we follow E-F CODD rule - monali
