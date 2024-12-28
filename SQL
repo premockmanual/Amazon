@@ -1,9 +1,0 @@
-Structure query langauge-To Store data into database
-CRUD Operation
-it is used to communicate with DBMS.  SiddhiPatole
-where C stands for CREATE, R stands for Read, U stands for Update and D stands for Delete. ----by Gauri Choudhari.
-SQL is standard language to communicate with RDBMS. -Priti Jadhav
-we can store data in table with the help of sql-Rutuja
-Structured query language (SQL) is a programming language for storing and processing information in a relational database. shubham wanjari
-In SQL we follow E-F CODD rule - monali
-SQL is also known as schema query language --------- Kajal.
